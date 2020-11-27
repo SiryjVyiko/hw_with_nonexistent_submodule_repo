@@ -1,0 +1,3 @@
+[submodule "replication-test"]
+	path = replication-test
+	url = https://github.com/SiryjVyiko/replication-test.git
